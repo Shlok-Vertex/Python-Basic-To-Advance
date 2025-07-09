@@ -4,7 +4,7 @@ This guide explains how to install and set up Python on Windows, macOS, and Linu
 
 ---
 
-## 🪟 Windows
+## 🪟 Windows. 
 
 1. **Download Python:**
    - Go to the [official Python website](https://www.python.org/downloads/).
@@ -25,7 +25,7 @@ This guide explains how to install and set up Python on Windows, macOS, and Linu
 
 ---
 
-## 🍏 macOS
+## 🍏 macOS. 
 
 1. **Check for Pre-installed Python:**
    - Open **Terminal**.
