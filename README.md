@@ -62,7 +62,7 @@ This guide explains how to install and set up Python on Windows, macOS, and Linu
 
 ---
 
-## 🔗 Useful Links
+## 🔗 Useful Links.
 
 - [Python Downloads](https://www.python.org/downloads/)
 - [Python Documentation](https://docs.python.org/3/)
