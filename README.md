@@ -1,4 +1,4 @@
-# 🐍 Python Installation and Setup Guide. 
+# 🐍 Python Installation and Setup Guide.
 
 This guide explains how to install and set up Python on Windows, macOS, and Linux. 🚀
 
